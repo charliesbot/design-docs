@@ -1,4 +1,4 @@
-# Awesome Design docs
+# Awesome Design Docs
 
 A collection of design docs
 
