@@ -1,5 +1,5 @@
 # YOUR DOC TITLE
-Link: [Link to this doc](https://google.com)
+Link: [Link to this doc](#)
 
 Author(s): Charlie L
 
