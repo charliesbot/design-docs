@@ -22,7 +22,6 @@ Last Updated: YYYY-MM-DD
 - Considerations
 - Metrics
 
-
 ## Links
 - [A link](#)
 - [Another link](#)
