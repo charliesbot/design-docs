@@ -70,6 +70,8 @@ Don't write about the testing itself, but about the testing process.
 
 ## Future Considerations {#future-considerations}
 
-- List other approaches considered and explain why they were not chosen.
+- Things that were excluded
+- Things that were considered but not implemented
+- Trade-offs
 
 ---
