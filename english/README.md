@@ -1,6 +1,6 @@
 # Project/Feature Name {#project-feature-name}
 
-**Link:** [design-doc](link)
+**Link:** [design-doc](link)  
 **Author(s):** [Author Name](mailto:author@example.com)  
 **Status:** Draft/In Progress/Completed  
 **Last Updated:** [Date]
