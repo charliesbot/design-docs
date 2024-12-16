@@ -1,103 +1,75 @@
-# YOUR DOC TITLE
-Link: [Link to this doc](#)
+# Project/Feature Name {#project-feature-name}
 
-Author(s): Charlie L
+**Link:** [design-doc](link)
+**Author(s):** [Author Name](mailto:author@example.com)  
+**Status:** Draft/In Progress/Completed  
+**Last Updated:** [Date]
 
-Status: [Draft]
+## Table of Contents
 
-Last Updated: 2022-12-31
+1. [Summary](#summary)
+2. [Context](#context)
+3. [Detailed Design](#detailed-design)
+   - [Proposed Solution 1](#proposed-solution-1)
+   - [Proposed Solution 2](#proposed-solution-2)
+   - [Proposed Solution 3](#proposed-solution-3)
+4. [Testing and Validation](#testing-and-validation)
+5. [Future Considerations](#future-considerations)
 
-## Contents
-- Goals
-- Non-Goals
-- Background
-- Overview
-- Detailed Design
-  - Solution 1
-    - Frontend
-    - Backend
-  - Solution 2
-    - Frontend
-    - Backend
-- Considerations
+---
+
+## Summary {#summary}
+
+This is a TLDR of the document.
+
+## Context {#context}
+
+Describe the background and reasoning behind this project. Include any relevant history, prior work, or motivating factors.
+
+## Detailed Design {#detailed-design}
+
+Include diagrams or pseudo-code if necessary.
+If actual code helps to understand the solution, include it.
+
+### Proposed Solution 1
+
+Provide a high-level diagram or explanation of the solution.
+
+| Pros          | Cons          |
+| ------------- | ------------- |
+| This is a pro | This is a con |
+
+### Proposed Solution 2
+
+Provide a high-level diagram or explanation of the solution.
+
+| Pros          | Cons          |
+| ------------- | ------------- |
+| This is a pro | This is a con |
+
+### Proposed Solution 3
+
+Provide a high-level diagram or explanation of the solution.
+
+| Pros          | Cons          |
+| ------------- | ------------- |
+| This is a pro | This is a con |
+
+---
+
+## Testing and Validation {#testing-and-validation}
+
+Explain how the solution will be tested.
+Don't write about the testing itself, but about the testing process.
+
+- Unit tests
+- Edge cases
 - Metrics
 
+---
 
-## Links
-- [A link](#)
-- [Another link](#)
+## Future Considerations {#future-considerations}
 
-## Objective
-_What and why are we doing this?_
+- List other approaches considered and explain why they were not chosen.
 
-_Include context for people that are unfamiliar with the project._
-
-_Keep it short, elaborate below in **Background, Overview and Detailed Design**_
-
-_Add screenshots / mocks where necessary_
-
-## Goals
-- Goals
-## Non-Goals
-- Non-Goals
-
-## Background
-_What is the context of the project?_
-
-_Include resources like other design docs if needed._
-
-_Don’t write about your design or requirements here._
-
-## Overview
-_High-level overview of your proposal._
-
-_This section should be understandable by new employees on your team that is not related to the project._
-
-_Put details in the next section._
-
-## Detailed Design
-_Use diagrams where necessary._
-
-_Tools like [Excalidraw](https://excalidraw.com) are good resources for this._
-
-_Cover major changes:_
-
- _- What are the new functions that you will write?_
-
- _- Why do you need new components?_
-
- _- Is there any code that can be reusable?_
-
-_Don’t elaborate deeply on the implementation details._
-
-## Solution 1
-### Frontend
-_Frontend…_
-### Backend
-_Backend…_
-
-## Solution 2
-### Frontend
-_Frontend…_
-### Backend
-_Backend…_
-
-## Considerations
-_Concerns / trade-offs / tech debt_
-
-## Metrics
-_What data do you need to validate before launching this feature?_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
