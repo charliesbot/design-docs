@@ -3,7 +3,7 @@
 **Link:** [design-doc](link)  
 **Author(s):** [Author Name](mailto:author@example.com)  
 **Status:** Draft/In Progress/Completed  
-**Last Updated:** [Date]
+**Last Updated:** [MMM dd, yyyy]
 
 ## Table of Contents
 
